@@ -1,0 +1,36 @@
+.app-container{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png");
+    height:100vh;
+    background-size: cover;
+
+}
+
+.card-container{
+    background-color: white;
+    height:350px;
+    width:250px;
+}
+
+.heading{
+    color: aqua;
+    font-size: 20px;
+    font-family:"roboto";
+}
+
+.para{
+    color:black;
+    font-size: 18px;
+}
+
+.button{
+    background-color:blue ;
+    color: bisque;
+    border-radius:3px;
+    height:20px;
+    width:75px;
+}
+.digit{
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}
